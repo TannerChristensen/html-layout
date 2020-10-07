@@ -15,10 +15,11 @@ border: 15px solid black;
 }    
 
 .green-rect {
-    height: 300px;
-    width: 400px;
-    display: inline-block;
-    margin: 0 50px;
+    height: 200px;
+  width: 400px;
+  display: inline-block;
+  background-color: forestgreen;
+  margin: 0 50px;
 }
 
 
@@ -69,6 +70,6 @@ h1 {
     color: navy;
     font-size: 52px;
     letter-spacing: 15px;
-    
+
 
 }
