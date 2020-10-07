@@ -1,0 +1,74 @@
+.shapes-box{ 
+width: 100%;
+box-sizing: border-box;
+padding: 30px;
+border: 15px solid black;
+}
+
+.purp-rect {
+    width: 50px;
+    height: 100px;
+    background-color: blueviolet;
+    display: inline-block;
+
+
+}    
+
+.green-rect {
+    height: 300px;
+    width: 400px;
+    display: inline-block;
+    margin: 0 50px;
+}
+
+
+
+.circle {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: brown;
+    display: inline-block;
+
+}
+
+.dotted-box {
+    width: 100%;
+    border: 15px dotted black;
+    padding: 50px;
+    box-sizing: border-box;
+    margin-top: 25px;
+}
+
+.shadow-rect {
+    width: 100%;
+    background-color: yellow;
+    height: 300px;
+    box-shadow: 20px 20px 10px 0px rgba(0, 0, 0, 0.75)
+
+}
+
+.word-box {
+    width: 50vw;
+    border: 1px solid ccc;
+    background-color: white;
+    padding: 150px;
+    box-sizing: border-box;
+    box-shadow: 4px 4px 5px 0px rgba(0, 0, 0, 0.25);
+    margin-top: 25px auto;
+
+}
+
+body {
+    padding: 60px
+}
+
+h1 {
+    width: 100%;
+    text-align: center;
+    color: navy;
+    font-size: 52px;
+    letter-spacing: 15px;
+    
+
+}
